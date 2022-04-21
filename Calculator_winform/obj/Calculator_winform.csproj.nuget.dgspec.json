@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\Calculator_winform\\Calculator_winform\\Calculator_winform.csproj": {}
+    "C:\\Users\\Soomin Lee\\OneDrive\\문서\\calculator\\Calculator_winform\\Calculator_winform.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\Calculator_winform\\Calculator_winform\\Calculator_winform.csproj": {
+    "C:\\Users\\Soomin Lee\\OneDrive\\문서\\calculator\\Calculator_winform\\Calculator_winform.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\Calculator_winform\\Calculator_winform\\Calculator_winform.csproj",
+        "projectUniqueName": "C:\\Users\\Soomin Lee\\OneDrive\\문서\\calculator\\Calculator_winform\\Calculator_winform.csproj",
         "projectName": "Calculator_winform",
-        "projectPath": "C:\\Users\\User\\Documents\\Calculator_winform\\Calculator_winform\\Calculator_winform.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\Calculator_winform\\Calculator_winform\\obj\\",
+        "projectPath": "C:\\Users\\Soomin Lee\\OneDrive\\문서\\calculator\\Calculator_winform\\Calculator_winform.csproj",
+        "packagesPath": "C:\\Users\\Soomin Lee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Soomin Lee\\OneDrive\\문서\\calculator\\Calculator_winform\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Soomin Lee\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -63,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
